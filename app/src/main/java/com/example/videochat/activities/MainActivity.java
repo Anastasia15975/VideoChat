@@ -1,8 +1,10 @@
-package com.example.videochat;
+package com.example.videochat.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.videochat.R;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,9 +1,11 @@
-package com.example.videochat;
+package com.example.videochat.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.videochat.R;
 
 public class SignInActivity extends AppCompatActivity {
 
@@ -12,6 +14,6 @@ public class SignInActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sign_in);
 
-        findViewById(R.id.textSignIn).setOnClickListener(view -> startActivity(new Intent(getApplicationContext(), SignUpActivity.class)));
+        findViewById(R.id.textSignUp).setOnClickListener(view -> startActivity(new Intent(getApplicationContext(), SignUpActivity.class)));
     }
 }
