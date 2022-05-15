@@ -3,9 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/VideoChat/app/src/main/res/drawable/background_accept_invitation.xml" value="0.1" />
+        <entry key="..\:/VideoChat/app/src/main/res/drawable/background_meeting_invitation.xml" value="0.1" />
+        <entry key="..\:/VideoChat/app/src/main/res/drawable/background_meeting_invitation_user_icon.xml" value="0.1" />
+        <entry key="..\:/VideoChat/app/src/main/res/drawable/background_reject_invitation.xml" value="0.1" />
         <entry key="..\:/VideoChat/app/src/main/res/drawable/backrgound_user_icon.xml" value="0.107" />
         <entry key="..\:/VideoChat/app/src/main/res/drawable/backround_user_icon.xml" value="0.1" />
+        <entry key="..\:/VideoChat/app/src/main/res/layout/activity_incoming_invitation.xml" value="0.152" />
         <entry key="..\:/VideoChat/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/VideoChat/app/src/main/res/layout/activity_outgoing_invitation.xml" value="0.1605351170568562" />
         <entry key="..\:/VideoChat/app/src/main/res/layout/activity_sign_in.xml" value="0.1" />
         <entry key="..\:/VideoChat/app/src/main/res/layout/activity_sign_up.xml" value="0.176" />
         <entry key="..\:/VideoChat/app/src/main/res/layout/item_conteiner_user.xml" value="0.1125" />
